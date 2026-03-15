@@ -1,0 +1,16 @@
+*.out
+*.test
+*.pyc
+.DS_Store
+dist/
+__pycache__/
+
+# Repositories managed by `make sync`
+skillforge/
+runlens/
+ragcheck/
+promptdeck/
+datasetlint/
+go-chrome-ai/
+homebrew-tap/
+itamaker/

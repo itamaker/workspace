@@ -1,0 +1,10 @@
+go 1.26.0
+
+use (
+	./datasetlint
+	./go-chrome-ai
+	./promptdeck
+	./ragcheck
+	./runlens
+	./skillforge
+)
