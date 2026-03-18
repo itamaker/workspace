@@ -1,0 +1,44 @@
+{
+  "repos": [
+    {
+      "name": "skillforge",
+      "url": "https://github.com/itamaker/skillforge.git",
+      "go_project": true
+    },
+    {
+      "name": "runlens",
+      "url": "https://github.com/itamaker/runlens.git",
+      "go_project": true
+    },
+    {
+      "name": "ragcheck",
+      "url": "https://github.com/itamaker/ragcheck.git",
+      "go_project": true
+    },
+    {
+      "name": "promptdeck",
+      "url": "https://github.com/itamaker/promptdeck.git",
+      "go_project": true
+    },
+    {
+      "name": "datasetlint",
+      "url": "https://github.com/itamaker/datasetlint.git",
+      "go_project": true
+    },
+    {
+      "name": "go-chrome-ai",
+      "url": "https://github.com/itamaker/go-chrome-ai.git",
+      "go_project": true
+    },
+    {
+      "name": "homebrew-tap",
+      "url": "https://github.com/itamaker/homebrew-tap.git",
+      "go_project": false
+    },
+    {
+      "name": "itamaker",
+      "url": "https://github.com/itamaker/itamaker.git",
+      "go_project": false
+    }
+  ]
+}
